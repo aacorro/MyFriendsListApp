@@ -1,0 +1,11 @@
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\MyFriendsListApp\bin\Debug\MyFriendsListApp.exe.config
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\MyFriendsListApp\bin\Debug\MyFriendsListApp.exe
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\MyFriendsListApp\bin\Debug\MyFriendsListApp.pdb
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\MyFriendsListApp\obj\Debug\MyFriendsListApp.csproj.AssemblyReference.cache
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\MyFriendsListApp\obj\Debug\MyFriendsListApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\MyFriendsListApp\obj\Debug\MyFriendsListApp.Form1.resources
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\MyFriendsListApp\obj\Debug\MyFriendsListApp.Properties.Resources.resources
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\MyFriendsListApp\obj\Debug\MyFriendsListApp.csproj.GenerateResource.cache
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\MyFriendsListApp\obj\Debug\MyFriendsListApp.csproj.CoreCompileInputs.cache
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\MyFriendsListApp\obj\Debug\MyFriendsListApp.exe
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\MyFriendsListApp\obj\Debug\MyFriendsListApp.pdb
